@@ -1,6 +1,6 @@
 # Hi there, I'm Taimoor Amir 👋
 
-🎓 **Data Science Undergraduate** at FAST-NU | 💡 Passionate about AI, NLP, and Full-Stack ML Applications  
+🎓 **Data Science Graduate** at FAST-NU | 💡 Passionate about AI, NLP, and Full-Stack ML Applications  
 📍 Based in Lahore, Pakistan | 📫 tamooramir123@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/taimoor-amir-339790280) • [GitHub](https://github.com/TaimoorAmir7)
 
